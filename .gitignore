@@ -1,1 +1,4 @@
 node_modules
+dir.py
+.vscode
+face.db

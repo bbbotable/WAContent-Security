@@ -1,0 +1,29 @@
+# Web 框架相关
+Flask==2.3.2
+flask-cors==4.0.0
+flask-sqlalchemy==3.1.1
+
+# HTTP 请求
+requests==2.31.0
+
+# 图像处理
+opencv-python==4.9.0.80
+Pillow==10.1.0
+
+# 数学/科学计算
+numpy==1.24.4
+torch==2.1.0 
+torchvision==0.16.0
+
+# 人脸识别
+face_recognition==1.3.0
+dlib==19.24.2  # face_recognition 的依赖
+
+# 文件上传、处理
+Werkzeug==2.3.7
+
+# 图像编码与IO
+imageio==2.33.0
+
+# 向量搜索
+faiss-cpu==1.7.4  
